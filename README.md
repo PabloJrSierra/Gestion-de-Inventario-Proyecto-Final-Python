@@ -1,13 +1,13 @@
 # 📦 Bot de Gestión de Inventario
 
 Proyecto Final – Curso Python Básico  
-Science Link – Julio 2025
+Ciencia Link – Julio 2025
 
 ---
 
 ## 🧠 Descripción
 
-Este proyecto consiste en un **bot interactivo de gestión de inventario**, desarrollado íntegramente en **Python** como parte del curso Python Básico dictado por **Science Link**.  
+Este proyecto consiste en un **bot interactivo de gestión de inventario**, desarrollado íntegramente en **Python** como parte del curso Python Básico dictado por **Ciencia Link**.  
 El sistema permite administrar productos de un almacén, negocio o restaurante de manera sencilla mediante un menú por consola.
 
 ---
