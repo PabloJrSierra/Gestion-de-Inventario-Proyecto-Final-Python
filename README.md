@@ -57,5 +57,5 @@ El bot permite realizar las siguientes operaciones:
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/bot-inventario.git
-   cd bot-inventario
+   git clone https://github.com/PabloJrSierra/Gestion-de-Inventario-Proyecto-Final-Python.git
+   cd Gestion-de-Inventario-Proyecto-Final-Python
